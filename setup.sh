@@ -8,8 +8,7 @@ echo "Else setup for VariFlight feeder will fail!"
 echo "This setup script just borrow the existing feeder Dump1090 decoder to function."
 echo " "
 
-apt-get update -y
-#apt-get upgrade -y
+
 apt-get install dos2unix -y
 
 cd /root
