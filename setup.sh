@@ -65,5 +65,3 @@ echo " "
 echo " "
 echo " "
 echo "Engineered by Rodney Yeo @ http://rodyeo.dyndns.org/"
-sleep 60
-reboot
