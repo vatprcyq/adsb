@@ -9,7 +9,7 @@ import os,uuid
 import time
 
 serverHost = '127.0.0.1'
-serverPort = 32457
+serverPort = 32459
 
 config = ConfigParser.ConfigParser()
 config.readfp(open(sys.path[0]+'/config.ini',"rb"))
